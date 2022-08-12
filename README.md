@@ -11,3 +11,11 @@ Data_da_criacao(datetime)
 
 Query usada 
 string insertQuery = "INSERT INTO COLLABORATOR(Nome,Data_da_Criacao) VALUES('" + colob.Nome + "'," + "'" + colob.dataDeCriacao + "'" + ")";
+
+
+Console:
+![image](https://user-images.githubusercontent.com/82232439/184282792-d40a1291-b10e-4eac-8d5c-e772db82242d.png)
+
+
+DB:
+![image](https://user-images.githubusercontent.com/82232439/184282847-6f2dee9c-f928-4982-b23c-8507b3ffb7b6.png)
